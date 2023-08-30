@@ -1,0 +1,2 @@
+Hi how to learn git
+hace made changes to the doc
